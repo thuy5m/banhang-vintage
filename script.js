@@ -1,1 +1,1 @@
-console.log('Website bán hàng vintage');
+console.log("Website đã sẵn sàng!");
